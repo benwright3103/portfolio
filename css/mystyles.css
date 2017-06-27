@@ -1,0 +1,100 @@
+
+h1{
+    color: white;
+    font-size: 5em;
+    font-family: 'Fjalla One', sans-serif;
+    text-transform: uppercase;;
+    text-align: center;
+
+}
+h2{
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+#boat{
+/*    display: none;
+*/
+}
+
+
+/* Navigation Styles */
+
+
+.navbar{
+    background: white;
+    margin-bottom: 20em;
+    position: fixed;
+    z-index: 100;
+    width: 100%; 
+}
+
+
+nav{
+    background: #07093D;
+    color: white;
+    font-size: 2em;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+
+nav ul{
+ margin: 0;
+ padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+ nav>ul>li>a {
+    color: #07093D;
+    background-color:#FF0;
+    display: block;
+    line-height: 2em;
+    padding: 0.5em 0.5em;
+    text-decoration: none;
+}
+
+
+
+#main{
+    background:#107FC9;
+    padding-top: 4em;
+}
+
+
+#skills{
+    background:#0E4EAD;
+    /*height: 50em;*/
+
+}
+
+#skillsHeader{
+    display: block;
+}
+
+#portfolio{
+    background:#0B108C;
+    height: 50em;
+}
+
+#about{
+    background:#0C0F66;
+    height: 50em;
+}
+
+#contact{
+    background:#07093D;
+    height: 50em;
+}
+
+#bubble2{
+    margin-top: 5em;
+}
+
+
+
